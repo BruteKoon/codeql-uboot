@@ -1,5 +1,5 @@
 import cpp
 
-from Function f
-where f.getName() = "strlen"
-select f, "a function named strlen"
+from Function ff
+where ff.getName() = "strlen"
+select ff, "a function named strlen"
